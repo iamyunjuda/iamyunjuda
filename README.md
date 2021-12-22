@@ -8,16 +8,6 @@
 
 
 
-
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=kijepark&repo=adserver-tutorial&locale=en)](https://github.com/iamyunjuda/Dialogue)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=kijepark&repo=one-page-template&locale=en)]()
-
-
-
-
-<!--
-**iamyunjuda/iamyunjuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -28,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
